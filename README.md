@@ -70,7 +70,7 @@ Specifically, the company wants to know:<br>
 - Jupyter Notebook for interactive analysis
 
 ## Acknowledgements:
-- I acknowledge and appreciate the valuable course materials from upGrad and IIIT-B which enhanced my understanding of data analysis and machine learning
+- I acknowledge and appreciate the valuable course materials from my university which enhanced my understanding of data analysis and machine learning
 ## References:
 - Python documentations
 - Exploratory Data Analysis
